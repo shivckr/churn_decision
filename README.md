@@ -1,2 +1,2 @@
 # churn_decision
-Dataset & Notebook credit: UpX acadmy
+ Notebook credit: UpX acadmy
